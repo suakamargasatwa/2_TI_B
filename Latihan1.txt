@@ -5,8 +5,10 @@
    <form action="sirait.php" method="post">
        Nilai awal: <input type = "number" name="awal" awal="1" akhir="10">
        Nilai akhir: <input type = "number" name="awal" awal="1" akhir="10">
+       
 
-       <input type="submit" name="submit">
+       <input type="submit" name="submit"></br>
+       <input type="edit" name="edit">
 
    </form>
 </body>
