@@ -3,8 +3,8 @@
    <title>Perkalian</title>
    <body>
    <form action="sirait.php" method="post">
-       Nilai awal: <input type = "number" name="awal" awal="1" akhir="10">
-       Nilai akhir: <input type = "number" name="awal" awal="1" akhir="10">
+       Nilai awal: <input type = "nomor" nama="awal" awal="2" akhir="20">
+       Nilai akhir: <input type = "nomor" nama="awal" awal="2" akhir="20">
        
 
        <input type="submit" name="submit"></br>
